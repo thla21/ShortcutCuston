@@ -16,7 +16,7 @@ Automatize tarefas no Windows com um atalho de teclado personalizado. Este proje
 
 ## Instalação
 
-### Opção A) Usando uv (recomendado)
+### Opção 1 - Usando uv (recomendado)
 O projeto já contém `pyproject.toml` e `uv.lock`.
 
 ```bash
@@ -27,7 +27,7 @@ pip install uv
 uv sync
 ```
 
-### Opção B) Usando pip/venv
+### Opção 2 - Usando pip/venv
 
 ```powershell
 # Na raiz do projeto
